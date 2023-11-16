@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "tasks": [
     {
-      "id": 1,
-      "title": "hello"
+      id:1,
+      task-title:"this is title",
+      completed:false
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
