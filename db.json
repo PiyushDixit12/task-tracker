@@ -1,9 +1,8 @@
-{
-  "tasks": [
+ [
     {
       "id":1,
       "task-title":"this is title",
       "completed":false
     }
   ]
-}
+
